@@ -1,13 +1,1 @@
-id,realm,item,post_upgrade_status,n_camps,fac_raw,prior_overlap,fac_remaining,primary_class,prior_classes
-FAC-SPA-01,outer space,"Hubble tension: JWST named as settler, licensed three camps",split,3,87.4,0.4,52.44,FAC,TAC
-FAC-SPA-03,outer space,Little Red Dots: black-hole stars vs hidden ordinary hosts,split,3,63.36,0.35,41.18,FAC,NCR
-FAC-HUM-01,humans,"AlphaFold: 'protein folding solved' closed static structure, split off dynamics ",split,2,40.95,0.12,36.04,FAC,
-FAC-OCE-01,ocean,"Nodule 'dark oxygen': replication ran, authors stepped back, next expedition pen",split,2,41.85,0.45,23.02,FAC,TAC
-FAC-SPA-02,outer space,"JWST massive early galaxies: resolved Apr 2026, reopened Aug 2026",reopened,2,39.6,0.5,19.8,FAC,NCR
-FAC-LAN-01,land,Metagenomics named the soil/ocean microbiome; 87–99% still uncultured,split,2,34.4,0.55,15.48,FAC,TAC
-FAC-QNT-01,quantum,Decoherence named as the measurement solution; single outcome still unexplained,split,2,35.67,0.65,12.48,FAC,NCR|IM-split
-FAC-EAR-02,earth,Core-mantle boundary: seismology mapped a complex interface; no contact sample,split,2,23.78,0.55,10.7,FAC,NCR|undersampling
-FAC-ANI-01,animals,Magnetoreception: decades of 'crucial' radical-pair tests have not killed magnet,split,2,35.1,0.7,10.53,FAC,TAC|NCR
-FAC-ANI-02,animals,"Project CETI: AI named as translator, delivered an alphabet, not meaning",in_progress,2,8.09,0.05,7.68,REFUSE_OR_RETAIN,
-FAC-HUM-02,humans,Young-onset colorectal cancer: genomic/lifestyle upgrades did not close the resi,split,2,27.28,0.8,5.46,REFUSE_OR_RETAIN,NCR
-FAC-EAR-01,earth,"Geomagnetic reversal: supercomputers named as future discriminator, not yet run ",not_run,2,0.0,0.85,0.0,REFUSE_OR_RETAIN,NCR|IM-split
+archived_from_current_public_head
